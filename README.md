@@ -1,2 +1,3 @@
-# DynamicsCRMTestFactory
-Designed to assist in unit testing Dynamics CRM Plugins
+# Dynamics CRM Test Factory
+Designed to assist in unit testing Dynamics CRM Plugins.
+
